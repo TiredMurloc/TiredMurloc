@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: 陈晨
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Chen Chen
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Chen Chen
+last_name: Chen
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🐟
 
 # Is this the primary user of the site?
 superuser: true
@@ -21,66 +21,63 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Sun Yat-Sen University
+    url: https://www.sysu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 哲学
+  - 精神分析
+  - 游戏
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: Master of Philosophy
+      institution: Sun Yat-Sen University
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: Bachelor of Philosophy
+      institution: Shanghai University
       year: 2008
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: 语言
     items:
-      - name: Python
+      - name: 英语
         description: ''
-        percent: 80
-        icon: python
+        percent: 85
+        icon: 📗
         icon_pack: fab
-      - name: Data Science
+      - name: 法语
         description: ''
-        percent: 100
-        icon: chart-line
+        percent: 70
+        icon: 📘
         icon_pack: fas
-      - name: SQL
+      - name: 沪语
         description: ''
-        percent: 40
-        icon: database
+        percent: 85
+        icon: 📙
         icon_pack: fas
-  - name: Hobbies
+  - name: 兴趣
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: 网球
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 75
+        icon: 🎾
         icon_pack: fas
-      - name: Cats
+      - name: 骑行
         description: ''
-        percent: 100
-        icon: cat
+        percent: 70
+        icon: 🚲
         icon_pack: fas
-      - name: Photography
+      - name: 电影
         description: ''
         percent: 80
         icon: camera-retro
@@ -96,16 +93,16 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.uk/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
