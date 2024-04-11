@@ -81,7 +81,7 @@ sections:
           company_logo: org-x
           location: 上海
           date_start: '2020-10-01'
-          date_end: '2021-6-01'
+          date_end: '2021-06-01'
           description: 负责日常行政事物
     design:
       columns: '2'
