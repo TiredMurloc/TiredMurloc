@@ -78,7 +78,7 @@ sections:
         - title: 行政助理
           company: 上海大学
           company_url: ''
-          company_logo: org-x
+          company_logo: org-SHU
           location: 上海
           date_start: '2020-10-01'
           date_end: '2021-6-01'
@@ -129,7 +129,7 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: 
+        - name: Deep Learning
           tag: Deep Learning
         - name: Other
           tag: Demo
