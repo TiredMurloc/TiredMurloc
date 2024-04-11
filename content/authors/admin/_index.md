@@ -67,10 +67,10 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: 网球
+      - name: 足球
         description: ''
-        percent: 75
-        icon: ball
+        percent: 70
+        icon: futbol
         icon_pack: fas
       - name: 骑行
         description: ''
