@@ -102,8 +102,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Futher Research
-          tag: Futher Research
+        - name: Further Research
+          tag: Further Research
         - name: Other
           tag: Demo
     design:

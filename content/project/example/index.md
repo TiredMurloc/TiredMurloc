@@ -1,8 +1,8 @@
 ---
-title: Futher Research
+title: Further Research
 summary: Une introduction à le projet.
 tags:
-  - Futher Research
+  - Further Research
 date: '2024-04-11T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
