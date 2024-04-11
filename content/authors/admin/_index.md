@@ -52,7 +52,7 @@ skills:
         description: ''
         percent: 85
         icon: book
-        icon_pack: fab
+        icon_pack: fas
       - name: 法语
         description: ''
         percent: 70
@@ -70,7 +70,7 @@ skills:
       - name: 网球
         description: ''
         percent: 75
-        icon: tennis-ball
+        icon: tennis
         icon_pack: fas
       - name: 骑行
         description: ''
