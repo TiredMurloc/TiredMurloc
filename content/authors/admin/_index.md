@@ -70,7 +70,7 @@ skills:
       - name: 网球
         description: ''
         percent: 75
-        icon: tennis
+        icon: ball
         icon_pack: fas
       - name: 骑行
         description: ''
