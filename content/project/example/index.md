@@ -1,41 +1,25 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Futher Research
+summary: Une introduction à le projet.
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Futher Research
+date: '2024-04-11T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+La phénoménologie contemporaine se présente sous deux aspects : l'un est analytique, une analyse statique de la phénoménologie, telle que l'analyse de la conscience du temps en phénoménologie ; l'autre est dynamique, comme la théorie du corps en phénoménologie et la théorie de l'intersubjectivité. Bien que ces deux aspects de la phénoménologie semblent diverger, en réalité, leur chemin vers la recherche est le même : la réduction de l'objet d'étude.（Küng, 1975; Husserl&Hardy, 1999; Kee, 2020）Cette réduction diffère d'une méthode analytique et consiste en une clarification des phénomènes que nous connaissons et ressentons (généralement de manière intuitive). Initialement, la phénoménologie ne traitait que de ces questions, mais avec l'évolution de la recherche, elle s'est étendue à de nombreux domaines qui n'étaient pas traditionnellement considérés comme intuitifs. Ainsi, les deux aspects se complètent mutuellement.(Waldenfels, 2007)
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+En parallèle, la psychanalyse, se présentant également comme une science (au moins à ses débuts), explore et utilise le matériel d'expérience de manière similaire à la phénoménologie. Cependant, la psychanalyse a emprunté un autre chemin, celui de l'inconscient. Ce chemin n'est pas directement intuitif pour les individus, mais il se produit néanmoins au sein de la société humaine, avec pour médiateur les discours des autres individus (les patients névrosés). Son origine remonte à des techniques telles que l'hypnose de Charcot et Breuer, mais c'est grâce à Anna O., une patiente de Freud, que le discours du patient névrosé a ouvert la voie à la psychanalyse.(Freud &Strachey,1959)
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+Ainsi, je considère que les méthodes de la phénoménologie et de la psychanalyse ont des points communs. Cependant, leurs chemins divergent ensuite. La phénoménologie conserve sa profondeur de réflexion philosophique, tandis que la psychanalyse reste ancrée dans la dimension pratique. Traditionnellement, la phénoménologie suit une ligne de penseurs tels que Husserl, Scheler, Heidegger, Merleau-Ponty, Levinas et Gélinas. En revanche, il est difficile de tracer une ligne directrice dans le cas de la psychanalyse, car dès ses débuts, elle a donné naissance à divers courants. On peut néanmoins mentionner la voie de Freud et Lacan. Malgré cela, ces deux approches partagent des points communs en raison de leur période historique proche. Bien que Lacan et Levinas n'aient probablement pas eu connaissance l'un de l'autre à l'époque, ils partagent de nombreuses ressources intellectuelles.(Paul-Laurent, 1993)
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Enfin, la recherche en philosophie aujourd'hui se tourne de plus en plus vers une approche axée sur les questions, en grande partie en raison de l'évaluation académique actuelle des disciplines. D'une part, la philosophie semble devenir moins cohérente, moins complète et moins profonde. D'autre part, la fragmentation de la philosophie signifie qu'il existe de nouvelles opportunités de communication. Par conséquent, je pense qu'il est peut-être possible de réconcilier ces deux courants philosophiques qui n'ont jamais vraiment dialogué dans l'histoire.

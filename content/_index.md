@@ -82,7 +82,7 @@ sections:
           location: 上海
           date_start: '2020-10-01'
           date_end: '2021-06-01'
-          description: 负责日常行政事务
+          description: 负责日常行政事务；处理报销问题，财务问题；协助管理日常会务、仓库存储
     design:
       columns: '2'
   - block: portfolio
@@ -102,8 +102,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Futher Research
+          tag: Futher Research
         - name: Other
           tag: Demo
     design:
@@ -112,19 +112,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+
 
 ---
