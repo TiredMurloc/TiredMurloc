@@ -65,7 +65,7 @@ sections:
         - title: 组织者
           company: 弗洛伊德读书会
           company_url: ''
-          company_logo: org-F
+          company_logo: org-gc
           location: 中山大学珠海校区
           date_start: '2022-07-01'
           date_end: '2024-02-01'
@@ -78,7 +78,7 @@ sections:
         - title: 行政助理
           company: 上海大学
           company_url: ''
-          company_logo: org-SHU
+          company_logo: org-x
           location: 上海
           date_start: '2020-10-01'
           date_end: '2021-6-01'
