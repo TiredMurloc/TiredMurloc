@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master of Philosophy
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: https://www.sysu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 探讨一知半解的事物，使之清晰化并推广。
 
 # Interests to show in About widget
 interests:
@@ -36,12 +36,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Master of Philosophy
-      institution: Sun Yat-Sen University
-      year: 2009
-    - course: Bachelor of Philosophy
-      institution: Shanghai University
-      year: 2008
+    - course: 哲学硕士
+      institution: 中山大学
+      year: 2024
+    - course: 哲学学士
+      institution: 上海大学
+      year: 2021
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -51,17 +51,17 @@ skills:
       - name: 英语
         description: ''
         percent: 85
-        icon: 📗
+        icon: book
         icon_pack: fab
       - name: 法语
         description: ''
         percent: 70
-        icon: 📘
+        icon: book-open
         icon_pack: fas
       - name: 沪语
         description: ''
-        percent: 85
-        icon: 📙
+        percent: 94
+        icon: book-open-reader
         icon_pack: fas
   - name: 兴趣
     color: '#eeac02'
@@ -70,17 +70,17 @@ skills:
       - name: 网球
         description: ''
         percent: 75
-        icon: 🎾
+        icon: tennis-ball
         icon_pack: fas
       - name: 骑行
         description: ''
-        percent: 70
-        icon: 🚲
+        percent: 60
+        icon: bicycle
         icon_pack: fas
       - name: 电影
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 90
+        icon: film
         icon_pack: fas
 
 # Social/Academic Networking
@@ -117,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+热衷于探索未知，在广袤的知识荒野中寻求答案。在不同的体系之中穿梭，将不同领域的界限打破。寻求生活的真理，理解世界的结构。
 {style="text-align: justify;"}
